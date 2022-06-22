@@ -1,3 +1,2 @@
 #!/bin/bash
-user= "/root"
-cd ~$user
+cd "/root"
